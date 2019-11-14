@@ -1,0 +1,27 @@
+.clock {
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.clock h1 {
+    font-size: 64px;
+}
+
+.start-btn {
+    background: #009688;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.stop-btn {
+    background: #e26b62;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    margin: 0 8px;
+    cursor: pointer;
+}
